@@ -14,7 +14,7 @@ if (number % 2 === 0) {
 } else {
     console.log("Number is odd");
 }
-
+   
 // switch
 let day = "Monday";
 switch (day) {
@@ -29,7 +29,7 @@ switch (day) {
 }
 
 // Loops
-for (let i = 0; i < 5; i++) {
+for (let i = 0; i < 9; i++) {
     console.log(i);
 }
 
